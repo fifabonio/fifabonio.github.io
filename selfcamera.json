@@ -5,19 +5,19 @@
             "activate_ads" : "true",
             "custom_banner" : "false",
             "one_signal" : "1a9130d2-ad74-4678-a2dc-45a6e2a8498a",
-            "network" : "admob",
+            "network" : "max",
             
             "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
             "admob_native" : "ca-app-pub-3940256099942544/2247696110",
             "admob_int" : "ca-app-pub-3940256099942544/1033173712",
 
-            "max_ban" : "",
+            "max_ban" : "null",
             "max_native" : "",
             "max_int" : "",
 
-            "fan_ban": "",
-            "fan_native": "",
-            "fan_int": "",
+            "fan_ban": "null",
+            "fan_native": "null",
+            "fan_int": "null",
             
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.picshwseriel.movieshow",
