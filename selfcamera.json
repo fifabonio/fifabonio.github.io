@@ -12,8 +12,8 @@
             "admob_int" : "ca-app-pub-3940256099942544/1033173712",
 
             "max_ban" : "null",
-            "max_native" : "",
-            "max_int" : "",
+            "max_native" : "b5e16a9e3f580db8",
+            "max_int" : "8343e2dba6cb1c01",
 
             "fan_ban": "null",
             "fan_native": "null",
