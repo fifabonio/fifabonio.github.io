@@ -2,10 +2,10 @@
     "config" : [
         {   
             "int_interval" : 2,
-            "activate_ads" : "true",
+            "activate_ads" : "false",
             "custom_banner" : "false",
             "one_signal" : "13c2e1c5-ec52-463d-90e0-a57c74c9ca0e",
-            "network" : "fan",
+            "network" : "max",
             
             "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
             "admob_native" : "ca-app-pub-3940256099942544/2247696110",
