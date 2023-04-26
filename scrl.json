@@ -3,18 +3,25 @@
         {   
             "int_interval" : 2,
             "activate_ads" : "false",
+            "activate_banner" : "true",
             "custom_banner" : "false",
             "one_signal" : "55109cda-1481-4335-8394-0ca7005ae706",
           
             "network" : "max",
+
+            "iron_source_key": "198419b25",
             
             "admob_ban" : "ca-app-pub-3940256099942544/6300978111",
             "admob_native" : "ca-app-pub-3940256099942544/2247696110",
             "admob_int" : "ca-app-pub-3940256099942544/1033173712",
+            
+            "yandex_ban" : "R-M-1820435-1",
+            "yandex_native" : "R-M-1820435-2",
+            "yandex_int" : "R-M-1820435-3",
 
-            "max_ban" : "",
-            "max_native" : "",
-            "max_int" : "",
+            "max_ban" : "6ca13d4c16f2f6a7",
+            "max_native" : "ad7727095d6ba632",
+            "max_int" : "ab2d15807ac9a2c1",
 
             "fan_ban": "",
             "fan_native": "",
