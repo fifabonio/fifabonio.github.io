@@ -3,7 +3,7 @@
         {   
             "int_interval" : 2,
             "activate_ads" : "true",
-            "activate_banner" : "false",
+            "activate_banner" : "true",
             "custom_banner" : "false",
             "one_signal" : "55109cda-1481-4335-8394-0ca7005ae706",
           
