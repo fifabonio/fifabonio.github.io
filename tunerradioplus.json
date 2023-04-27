@@ -2,7 +2,8 @@
     "config" : [
         {   
             "int_interval" : 2,
-            "activate_ads" : "trus",
+            "activate_ads" : "true",
+            "activate_banner" : "true",
             "custom_ads" : "false",
             "one_signal" : "4c092065-a625-42a0-abe7-2ff10f34b6d1",
           
