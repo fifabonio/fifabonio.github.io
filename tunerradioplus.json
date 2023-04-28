@@ -20,6 +20,12 @@
             "fan_ban": "",
             "fan_native": "",
             "fan_int": "",
+
+            "yandex_ban" : "",
+            "yandex_native" : "",
+            "yandex_int" : "",
+            
+            "iron_source_key": "",
             
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.picshwseriel.movieshow",
